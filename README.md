@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTML & CSS Lab Assignments
 
 Output previews are stored beside their corresponding HTML files. Each lab folder has its own `README.md` with links and embedded previews.
@@ -23,3 +24,7 @@ Output previews are stored beside their corresponding HTML files. Each lab folde
 ## Root page
 - HTML: [index.html](index.html)
 - Output preview: [index.png](index.png)
+=======
+# Html-css-lab-assignments
+b.tech CSE HTML and CSS lab Assignment 
+>>>>>>> 94525121c3689d14706b77630be2a7f9ea027d41

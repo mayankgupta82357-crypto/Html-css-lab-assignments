@@ -1,0 +1,22 @@
+
+/* Name: Mayank Gupta | Roll No.: 2510303296 | Assignment: 10, Task 2 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+p {
+    color: #333333;
+    font-size: 18px;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 8px;
+}
